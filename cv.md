@@ -12,15 +12,15 @@
   
 4. Skills
 
-  * Visual Studio Code
-  * Angular(8)
-  * RxJS
-  * CSS/HTML
-  * Angular Material
-  * Typescript
-  * GitLab/Github
-  * Sharepoint
-  * SPFx
+* Visual Studio Code
+* Angular(8)
+* RxJS
+* CSS/HTML
+* Angular Material
+* Typescript
+* GitLab/Github
+* Sharepoint
+* SPFx
 
 5. Code examples
 
@@ -95,11 +95,11 @@
 
 7. Education
 
-   * Bachelor's degree:
+* Bachelor's degree:
 Nizhny Novgorod State Technical University. R.E. Alekseeva; Institute of Nuclear Energy and Technical Physics; Department of Physics and Technology of Optical Communication; Direction: “Infocommunication technologies and communication systems”; Training time 2012-2016, average score 4, Bachelor's degree received.
 Diploma: “Development of a microwave amplifier for an optoelectronic oscillator of radio frequency signals”.
 
-   * Magistracy:
+* Magistracy:
 Nizhny Novgorod State Technical University. R.E. Alekseeva; Institute of economics and management; Department of Economic Theory and Econometrics; Direction: “Applied Mathematics and Computer Science”; Training time 2016-2018, the average score is 4.9. Master's degree received.
 Diploma: “Features of mathematical modeling of combustion processes in ANSYS”.
 
